@@ -1,0 +1,16 @@
+Package: nomercy
+Version: 0.1.578
+Architecture: amd64
+Maintainer: NoMercy Entertainment <support@nomercy.tv>
+Depends: libc6 (>= 2.31), libgcc-s1, libssl3 | libssl1.1
+Recommends: systemd, libicu78 | libicu76 | libicu74 | libicu72 | libicu70 | libicu67 | libicu66
+Filename: pool/v0.1.578/nomercy_0.1.578_amd64.deb
+Size: 96561180
+MD5sum: 090240b7468a95764b3b416f27eee248
+SHA1: 8e8ef4ff0dd8f1027a69d48f41eb288d0182adc8
+SHA256: 788d7dbfb34b0ee8170c40b970bf102930659ec8df430cb1b57d4c503ce0d1ce
+Section: multimedia
+Priority: optional
+Description: NoMercy MediaServer - complete installation
+ Modern Media Server Solution with server, launcher, and CLI tool.
+

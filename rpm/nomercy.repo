@@ -1,0 +1,7 @@
+[nomercy]
+name=NoMercy Entertainment
+baseurl=https://repo-test.nomercy.tv/rpm
+enabled=1
+gpgcheck=0
+repo_gpgcheck=1
+gpgkey=https://repo-test.nomercy.tv/nomercy_repo.gpg.pub
